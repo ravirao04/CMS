@@ -1,0 +1,19 @@
+.horizontalFlex{
+    font-family: 'Roboto';
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: flex-start;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.verticalFlex{
+    font-family: 'Roboto';
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: flex-start;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
